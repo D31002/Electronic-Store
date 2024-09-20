@@ -27,18 +27,6 @@ spring:
     oauth2:
       client:
         registration:
-#          google:
-#            client-id: 568179722300-v4r6kgvioqt12l1crims3khitpag3a2e.apps.googleusercontent.com
-#            client-secret: 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
-#            scope:
-#            - email
-#            - profile
-#          facebook:
-#            client-id: 3015036515294158
-#            client-secret: 10120e50aa8784c56d5b675616dc90b5
-#            scope:
-#            - email
-#            - public_profile
 
 javaweb:
   app:
